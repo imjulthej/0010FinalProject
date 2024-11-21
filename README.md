@@ -1,7 +1,7 @@
 # CMPINF0010 Final Project
 Team Name: Team JETY
 
-Team Members, Emails, and Individual Notebooks: Julian Jalkh (jgj30@pitt.edu; ), Tanishq Bansod (tdb59@pitt.edu; ), Yunus Alkamel (yaa117@pitt.edu; ), Elias Hadjipanayis (ech118@pitt.edu; )
+Team Members, Emails, and Individual Notebooks: Julian Jalkh (jgj30@pitt.edu; Neighborhoods with SNAP Data.ipynb), Tanishq Bansod (tdb59@pitt.edu; Tanishq.ipynb), Yunus Alkamel (yaa117@pitt.edu; ), Elias Hadjipanayis (ech118@pitt.edu; )
 
 Canvas Group Number: 7
 
